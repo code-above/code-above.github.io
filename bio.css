@@ -1,20 +1,8 @@
 html {
     font-family: 'Roboto';
-}
-
-
-
-@media screen and (max-device-width: 768px) and (orientation: portrait){
-
-    html {
         width:100%;
         background-color: #B0E0E6;
         opacity: 94%;
-    }
 }
 
-@media screen and (max-device-width: 2208px) and (orientation: landscape){
-    html {
-        width:100%;
-    }
-  }
+
