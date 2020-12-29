@@ -12,3 +12,9 @@ html {
         opacity: 94%;
     }
 }
+
+@media screen and (max-device-width: 2208px) and (orientation: landscape){
+    html {
+        width:100%;
+    }
+  }
