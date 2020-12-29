@@ -1,5 +1,5 @@
 # code-above.github.io
 
-inspired by steph.js 
+inspired by _steph.js 
 
 bio links page for social media  
