@@ -6,7 +6,7 @@ html {
 
 @media screen and (max-device-width: 768px) and (orientation: portrait){
 
-    body {
+    html {
         width:100%;
         background-color: #B0E0E6;
         opacity: 94%;
